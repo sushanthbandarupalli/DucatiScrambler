@@ -7,7 +7,7 @@ const Login = () => {
   return (
     <div class="login-container">
       <div class="logo">
-        <img style={{height:"200px" , width:"200px"}} src="./images/logo.png" alt="Ducati Logo" />
+        <img style={{height:"200px" , width:"200px"}} src="./images/ducati-logo.png" alt="Ducati Logo" />
       </div>
       <form class="login-form">
         <h1>Login</h1>

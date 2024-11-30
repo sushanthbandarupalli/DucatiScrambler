@@ -179,7 +179,7 @@ const HomePage = () => {
                       src="./images/ducati-logo.png"
                       alt="ducati logo"
                       class="logo"
-                      style={{ marginTop: "-20px", height:"100px", borderRadius:"20px"}}
+                      style={{ marginTop: "-20px", height:"90px", borderRadius:"20px"}}
                     />
                   </a>
                 </div>
